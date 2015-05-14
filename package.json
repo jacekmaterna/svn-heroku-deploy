@@ -1,0 +1,32 @@
+{
+  "name": "svn-heroku-deploy",
+  "version": "0.0.1",
+  "description": "Deploy a NodeJS application to Heroku/Dokku via SVN",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raghunat/svn-heroku-deploy.git"
+  },
+  "keywords": [
+    "SVN",
+    "Heroku",
+    "Dokku",
+    "Git",
+    "Deploy",
+    "Continous",
+    "Deployment"
+  ],
+  "author": "Stephen Raghunath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghunat/svn-heroku-deploy/issues"
+  },
+  "homepage": "https://github.com/raghunat/svn-heroku-deploy",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
