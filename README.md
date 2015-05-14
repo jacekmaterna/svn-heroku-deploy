@@ -1,5 +1,6 @@
 # svn-heroku-deploy
 Deploy a NodeJS application to Heroku/Dokku via SVN
+[![Build Status](https://travis-ci.org/raghunat/svn-heroku-deploy.svg?branch=master)](https://travis-ci.org/raghunat/svn-heroku-deploy)
 
 ------------------
 
